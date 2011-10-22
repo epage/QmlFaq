@@ -2,3 +2,6 @@ I was having trouble finding information in the docs on how to connect a signal 
 
 The QML Connections element sounded closest to what I wanted but a couple of experiments failed.
 http://doc.qt.nokia.com/4.7-snapshot/qml-connections.html
+
+I guess this is similar to signals with Loaders
+http://doc.qt.nokia.com/4.7-snapshot/qml-loader.html#receiving-signals-from-loaded-items
