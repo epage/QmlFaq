@@ -6,7 +6,7 @@ Page
 {
 	id: page
 	tools: viewToolbar
-	property string message
+	property string message: "Hello World"
 
 	Column
 	{
